@@ -1,10 +1,5 @@
 Heallo World 
-My name is pranit :
-
-    hwoons
-    kkshs
-skjkka
+My name is Rahul :
 
 
-kkks
 pwd
